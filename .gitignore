@@ -1,0 +1,10 @@
+bin/*
+run/
+/logs/
+/log/
+.idea/
+.vscode/
+conf/conf.ini
+vendor/
+go.sum
+.DS_Store/
