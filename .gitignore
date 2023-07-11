@@ -8,3 +8,4 @@ conf/conf.ini
 vendor/
 go.sum
 .DS_Store/
+*/target
