@@ -11,7 +11,14 @@ fn main() {
 
     let num: u8 = 254;
     println!("num is {}", num);
+    // num = 200;
+    // println!("num is {}", num);
 
     let a: (i32, f64, u8) = (500, 6.4, 1);
     println!("a is {}", a.2);
+
+
+    let arr: [u8; 5] = [1, 2, 3, 4, 5];
+    let index = 4;
+    println!("arr is {}", arr[index]);
 }
